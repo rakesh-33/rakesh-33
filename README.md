@@ -1,35 +1,36 @@
 # 👋 Hi, I'm Rakesh Bhattarai
 
-🎓 Computer Science Student  
-💻 Learning Programming, Data Science & Machine Learning  
+🎓 BTech Student  
+🤖 Aspiring Machine Learning Engineer & AI Research Enthusiast  
 📍 New Delhi, India  
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **C++ and Python**
-- 🤖 Interested in **Machine Learning & AI**
-- 📚 Believe in learning through **practice & consistency**
-- 🚀 Building small projects step by step
+- 🎓 BTech student with strong interest in **Machine Learning & AI**
+- 🧪 Curious about **new AI technologies and ML research**
+- 📊 Hands-on experience with **data analysis & visualization**
+- 🌱 Currently learning **Machine Learning concepts and algorithms**
+- 🚀 Believe in consistency, fundamentals, and project-based learning
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,git,github" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
+<a href="https://www.linkedin.com/in/rakesh-bhattarai-22ba28326/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <a href="mailto:rakeshbhattarai105@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/rakesh-33">
-  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 ---
@@ -42,13 +43,14 @@
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Current Focus
 
-- ✅ Strengthen C++ fundamentals  
-- ⏳ Learn Python deeply  
-- ⏳ Start Data Science & ML  
-- ⏳ Stay consistent on GitHub  
+- 📘 Machine Learning fundamentals
+- 📈 Data analysis using Pandas & NumPy
+- 📊 Visualization with Matplotlib
+- 🤖 Exploring real-world ML projects
+- 🔬 Understanding ML research basics
 
 ---
 
-⭐ *Learning one step at a time.*
+⭐ *Learning. Building. Improving — every day.*
