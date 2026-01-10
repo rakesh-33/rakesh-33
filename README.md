@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Rakesh Bhattarai
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=BTech+Student;Machine+Learning+Enthusiast;Interested+in+AI+Technologies+%26+ML+Research&center=true&width=600" />
+</p>
+
 🎓 BTech Student  
 🤖 Interested in AI technologies & Machine Learning research  
 📍 New Delhi, India  
