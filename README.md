@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @rakesh-33
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 New Delhi
-- 😄 M
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Rakesh Bhattarai
 
-<!---
-rakesh-33/rakesh-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student  
+💻 Learning Programming, Data Science & Machine Learning  
+📍 New Delhi, India  
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning **C++ and Python**
+- 🤖 Interested in **Machine Learning & AI**
+- 📚 Believe in learning through **practice & consistency**
+- 🚀 Building small projects step by step
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="mailto:rakeshbhattarai105@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/rakesh-33">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakesh-33&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-33&theme=tokyonight" />
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Strengthen C++ fundamentals  
+- ⏳ Learn Python deeply  
+- ⏳ Start Data Science & ML  
+- ⏳ Stay consistent on GitHub  
+
+---
+
+⭐ *Learning one step at a time.*
