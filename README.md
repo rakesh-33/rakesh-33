@@ -30,6 +30,7 @@ Currently focused on developing **strong ML foundations** and moving toward **re
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
@@ -56,7 +57,7 @@ Currently focused on developing **strong ML foundations** and moving toward **re
 - Build strong **ML intuition**
 - Write clean, reproducible ML code
 - Explore **research-driven ML**
-- Contribute to open-source projects
+- Contribute to open-source projects  
 
 ---
 
