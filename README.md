@@ -24,20 +24,23 @@ I enjoy learning by **building projects**, experimenting with data, and understa
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Tools
+### 💻 Programming Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </p>
 
 ### 📚 Libraries & Frameworks
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" width="45" height="45"/>
+</p>
 
 ---
 
@@ -48,6 +51,7 @@ I enjoy learning by **building projects**, experimenting with data, and understa
 - Visualization using **Matplotlib**
 - Understanding **model evaluation & generalization**
 - Building **end-to-end ML projects**
+- Improving **Linux & Git workflow**
 
 ---
 
@@ -56,7 +60,7 @@ I enjoy learning by **building projects**, experimenting with data, and understa
 - Developing strong **ML intuition**
 - Writing clean, reproducible ML code
 - Exploring **research-oriented ML concepts**
-- Contributing to open-source ML projects (soon!)
+- Contributing to open-source ML projects
 
 ---
 
