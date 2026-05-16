@@ -7,9 +7,16 @@
 ██╔══██╗██╔══██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
 ██║  ██║██║  ██║██║  ██╗███████╗███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+
+██████╗ ██╗  ██╗ █████╗ ████████╗████████╗ █████╗ ██████╗  █████╗ ██╗
+██╔══██╗██║  ██║██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║
+██████╔╝███████║███████║   ██║      ██║   ███████║██████╔╝███████║██║
+██╔══██╗██╔══██║██╔══██║   ██║      ██║   ██╔══██║██╔══██╗██╔══██║██║
+██████╔╝██║  ██║██║  ██║   ██║      ██║   ██║  ██║██║  ██║██║  ██║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BTech+Student+%7C+New+Delhi%2C+India;Machine+Learning+Enthusiast;Building+ML+intuition+from+first+principles;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=BTech+Student+%7C+New+Delhi%2C+India;Machine+Learning+Enthusiast;Building+ML+intuition+from+first+principles;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing SVG" />
 
 </div>
 
