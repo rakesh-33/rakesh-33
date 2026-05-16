@@ -6,13 +6,13 @@
 
 ---
 
-# 👤 $ whoami
+# 🧑‍💻 `$ whoami`
 
-I'm **Rakesh Bhattarai** — a BTech student on a deliberate path through **Machine Learning** and **AI**.
+I'm **Rakesh Bhattarai** — a 2nd year BTech student from **New Delhi**, currently going deep on **Machine Learning** and **AI**.
 
-I don't just use libraries. I try to understand *why* they work — building mental models from the math up, then validating them through projects. My approach is iterative: learn a concept, implement it, break it, understand it better.
+Still early in the journey, but learning the right way — from fundamentals first, then building things to make them stick. I like understanding *why* something works before moving on.
 
-Currently building strong ML foundations while developing a taste for **research-oriented thinking**.
+Right now I'm focused on getting the core ML foundations solid before branching out.
 
 ---
 
