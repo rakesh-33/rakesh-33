@@ -1,30 +1,14 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗  ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██████╔╝███████║█████╔╝ █████╗  ███████╗███████║
-██╔══██╗██╔══██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
-██║  ██║██║  ██║██║  ██╗███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-
-██████╗ ██╗  ██╗ █████╗ ████████╗████████╗ █████╗ ██████╗  █████╗ ██╗
-██╔══██╗██║  ██║██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║
-██████╔╝███████║███████║   ██║      ██║   ███████║██████╔╝███████║██║
-██╔══██╗██╔══██║██╔══██║   ██║      ██║   ██╔══██║██╔══██╗██╔══██║██║
-██████╔╝██║  ██║██║  ██║   ██║      ██║   ██║  ██║██║  ██║██║  ██║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=BTech+Student+%7C+New+Delhi%2C+India;Machine+Learning+Enthusiast;Building+ML+intuition+from+first+principles;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BTech+Student+%7C+New+Delhi%2C+India;Machine+Learning+Enthusiast;Building+ML+intuition+from+first+principles;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `$ whoami`
+# 👤 $ whoami
 
-I'm **Rakesh Bhattarai** — a BTech student on a deliberate path through Machine Learning and AI.
+I'm **Rakesh Bhattarai** — a BTech student on a deliberate path through **Machine Learning** and **AI**.
 
 I don't just use libraries. I try to understand *why* they work — building mental models from the math up, then validating them through projects. My approach is iterative: learn a concept, implement it, break it, understand it better.
 
@@ -32,7 +16,7 @@ Currently building strong ML foundations while developing a taste for **research
 
 ---
 
-## `$ ls skills/`
+# 🛠️ `$ ls skills/`
 
 ### Languages & Tools
 
@@ -54,7 +38,7 @@ Currently building strong ML foundations while developing a taste for **research
 
 ---
 
-## `$ cat current_focus.txt`
+# 🎯 `$ cat current_focus.txt`
 
 ```python
 focus = {
@@ -67,7 +51,7 @@ focus = {
 
 ---
 
-## `$ cat philosophy.md`
+# 💡 `$ cat philosophy.md`
 
 > I believe the best way to understand a model is to build it —  
 > then deliberately stress-test it until it breaks.
@@ -79,7 +63,7 @@ focus = {
 
 ---
 
-## `$ git log --goals`
+# 🎯 `$ git log --goals`
 
 - [ ] Build strong ML intuition through structured projects  
 - [ ] Write clean, reproducible, well-documented ML code  
@@ -88,7 +72,7 @@ focus = {
 
 ---
 
-## `$ ping me`
+# 📬 `$ ping me`
 
 <p>
   <a href="https://www.linkedin.com/in/rakesh-bhattarai-22ba28326/">
